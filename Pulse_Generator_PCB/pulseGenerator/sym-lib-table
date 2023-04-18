@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "pulseGen_circuit-rescue")(type "Legacy")(uri "M:/Shimpei/OneDrive/Codes/pulseGen/circuits/pulseGen_circuit-rescue.lib")(options "")(descr ""))
+)

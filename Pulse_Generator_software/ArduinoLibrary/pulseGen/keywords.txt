@@ -1,0 +1,5 @@
+Channel KEYWORD1
+mode    KEYWORD2
+setTogglePulseParam KEYWORD2
+setPulseParam   KEYWORD2
+interrupt   KEYWORD2
